@@ -18,7 +18,7 @@ This project is a Star Wars Heroes application that displays a detailed visual r
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/star-wars-heroes-app.git
+git clone https://github.com/valyadum/star-wars.git
 cd star-wars
 ```
 

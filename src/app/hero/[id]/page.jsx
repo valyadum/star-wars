@@ -177,7 +177,7 @@ function HeroPage() {
   return (
     <main>
       {loading ? (
-        <p>Loading...</p>
+        <p style={{ color:'white'}}>Loading...</p>
       ) : (
         <div style={{ width: '100vw', height: '100vh' }}>
           <ReactFlow

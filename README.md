@@ -19,7 +19,7 @@ This project is a Star Wars Heroes application that displays a detailed visual r
 
 ```bash
 git clone https://github.com/yourusername/star-wars-heroes-app.git
-cd star-wars-heroes-app
+cd star-wars
 ```
 
 2. **Install dependencies:**
